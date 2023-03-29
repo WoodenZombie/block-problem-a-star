@@ -1,6 +1,5 @@
 from blockworld import BlockWorld
 import math
-from queue import PriorityQueue
 
 class BlockWorldHeuristic(BlockWorld):
 	def __init__(self, num_blocks=5, state=None):
