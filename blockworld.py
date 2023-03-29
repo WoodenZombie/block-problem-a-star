@@ -1,6 +1,6 @@
 ###
-# This file is not part of the submission. Do not change it!
-# You can play with the environment by directly running `python blockworld.py`.
+# Part of the project that was given by professors
+# Implements BlockWorld class
 ##
 
 import random, copy, numpy as np, ast
